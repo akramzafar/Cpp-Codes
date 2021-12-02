@@ -10,5 +10,6 @@ int main()
 		int s;
 		s=one+sec;
 		cout<<s;
+	cout<<"\nThanks for using this program"<<endl;
 	return 0;
 }
